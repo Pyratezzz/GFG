@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e28712c-6d8c-4b5a-b85e-6eeeb06b26e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Order_Statistics/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Order_Statistics/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,42 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Rotation/Problem8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="5" selection-start-line="36" selection-start-column="7" selection-end-line="38" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="5" selection-start-line="31" selection-start-column="8" selection-end-line="33" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem4.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="435">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,11 +68,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Order_Statistics/MinHeap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Order_Statistics/Problem2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="106" column="9" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/CircularLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -146,6 +148,11 @@
         <option value="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem7.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem8.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem9.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Order_Statistics/MinHeap.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Order_Statistics/Problem2.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/CircularLinkedList.java" />
       </list>
     </option>
   </component>
@@ -170,7 +177,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,23 +193,17 @@
               <item name="GFG" type="b2602c69:ProjectViewProjectNode" />
               <item name="GFG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GFG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrangement_Rearrangement" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579579146385" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580305684139" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RunDashboard">
@@ -218,13 +218,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem9">
-    <configuration name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Arrangement_Rearrangement.Problem5" />
+  <component name="RunManager" selected="Application.CircularLinkedList">
+    <configuration name="CircularLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.CircularLinkedList" />
       <module name="GFG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Arrangement_Rearrangement.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Arrangement_Rearrangement.Problem6" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList" />
       <module name="GFG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Arrangement_Rearrangement.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Arrangement_Rearrangement.Problem7" />
+    <configuration name="MinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Order_Statistics.MinHeap" />
       <module name="GFG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Arrangement_Rearrangement.*" />
+          <option name="PATTERN" value="Arrays.Order_Statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Arrangement_Rearrangement.Problem8" />
+    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Order_Statistics.Problem2" />
       <module name="GFG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Arrangement_Rearrangement.*" />
+          <option name="PATTERN" value="Arrays.Order_Statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircularLinkedList" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.Problem2" />
+        <item itemvalue="Application.MinHeap" />
         <item itemvalue="Application.Problem9" />
-        <item itemvalue="Application.Problem8" />
-        <item itemvalue="Application.Problem7" />
-        <item itemvalue="Application.Problem6" />
-        <item itemvalue="Application.Problem5" />
       </list>
     </recent_temporary>
   </component>
@@ -309,8 +309,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -352,6 +353,12 @@
           <line>52</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/LinkedList.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -450,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/Arrangement_Rearrangement/Problem8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="435">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -462,6 +469,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Order_Statistics/MinHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Order_Statistics/Problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="106" column="9" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/CircularLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
         </state>
       </provider>
     </entry>
