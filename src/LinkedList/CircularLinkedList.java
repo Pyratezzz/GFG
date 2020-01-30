@@ -82,6 +82,37 @@ public class CircularLinkedList {
         h2.print();
     }
 
+    public void delete(int d){
+        Node p = head;
+        Node q = head.next;
+        while (q.data != d && q != head){
+            p=q;
+            q=q.next;
+        }
+
+        if(q.data ==d){
+            p.next = q.next;
+        }
+        return;
+    }
+
+    public  void exchange(){
+        if(head == null || head.next == head)
+            return;
+
+        Node p = head;
+        Node q = head.next;
+        while(q.next != head){
+            p=q;
+            q=p.next;
+        }
+
+        q.next = head.next;
+        head.next =q;
+        p.next =head;
+        head = q;
+
+    }
     public static void main(String[] args){
         CircularLinkedList list = new CircularLinkedList();
 
@@ -89,8 +120,18 @@ public class CircularLinkedList {
         list.push(1);
         list.push(2);
         list.push(3);
+        list.push(6);
         list.push(4);
         list.push(5);
+        list.print();
+
+
+        System.out.println("Delete 6 from list");
+        list.delete(6);
+        list.print();
+
+        System.out.println(("Exchanging First and Last Node"));
+        list.exchange();
         list.print();
 
         System.out.println("Breaking the list into two, if odd first one have extra element");
